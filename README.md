@@ -6,15 +6,15 @@
 
 ##Relevant Quips
 
-https://salesforce.quip.com/RdSPATbTdy4i
+None for PLC format
 
 ##Relevant Form
 
-https://docs.google.com/forms/d/1Hw4HhtElSGkTItaWwHD5_w5Du7Cp6c8cfIZ8ScGzAJ4/edit
+https://docs.google.com/forms/d/e/1FAIpQLScfhbS8b15EM0I7dlYfdnUD_QurJfUhIKT6t73TVe2x-HPNsQ/viewform
 
 ##Relevant Sheet
 
-https://docs.google.com/spreadsheets/d/1rfyA4iMkC06AHW2h2iPrt8H1_vn_NLgMst2ag-lhFF8/edit?resourcekey#gid=1819425215
+https://docs.google.com/spreadsheets/d/1rnrHNKdJcEyxs37C7tNxezMbV6cccpWQniOElh5jmSU/edit?resourcekey#gid=1646972121
 
 ##Deployment
 
