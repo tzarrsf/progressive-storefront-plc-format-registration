@@ -1,6 +1,6 @@
 # Progressive Storefront (formerly PWA Web Kit and Managed Runtime) PLC Format Registration
 
-## This is an autoresponder for Progressive Storefront Live Training submissions.
+> This is an autoresponder for Progressive Storefront Live Training submissions.
 
 ## Configuration:
 
